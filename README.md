@@ -1,4 +1,4 @@
-# Ecommerce Sales Dashboard
+# Ecommerce Sales Store Analysis
 
 This repository contains a Power BI dashboard for analyzing ecommerce sales performance.
 
