@@ -26,4 +26,4 @@ The dashboard is designed to help review ecommerce sales data through visual rep
 
 ## Repository
 
-GitHub: https://github.com/Purushottam7652/Ecommerce-Sales-Dashboard-
+GitHub: https://github.com/Purushottam7652/Ecommerce-Sales-Store-Analysis-
